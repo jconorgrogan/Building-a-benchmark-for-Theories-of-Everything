@@ -2,6 +2,8 @@
 
 We need rigorous benchmarks to evaluate 'Theories of Everything'; else it's just vibes-based. Without objective metrics, we can't distinguish between elegant theories and elegant nonsense. This benchmark captures key dimensions: explanatory power, evidential support, predictive accuracy, computational efficiency, and adaptability to new observations.
 
+In thinking about this concept, one thing that struck me; What we're really debating is not a literal "Theory of Everything" but rather a "Theory of All That's Compressible and Communicable." We confuse the two as the same thing, when it is the very fact that they are different (they have to be) that could lead us astray.
+
 ## Theoretical Layer
 
 A ToE is ideally described by a quintuple T = ⟨P, E, Π, B, M⟩ relative to a fixed universal Turing machine U:
