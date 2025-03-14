@@ -75,7 +75,12 @@ This formalization makes explicit that understanding requires compression at mul
 
 The limits of science are determined not just by what patterns exist in reality, but by what patterns can survive this nested compression process while maintaining sufficient fidelity at each level.
 
-**Musings**
+
+## Existing set of Theories and their benchmarks
+
+[To be built out]
+
+## Musing
 
 ### No Single Theory for **All** Phenomena
 It's effectively impossible to have one quintuple TTT that models the full space OOO of every observable phenomenon while satisfying simplicity, accuracy, and structural fidelity. Theoretical results (like Solomonoff's work and NFL theorems) show that any *computable* all-encompassing predictor can be undermined by some data sequence. Physically, the diversity and complexity of OOO means a single finite model would either be intractably complex or inevitably inaccurate on some parts of OOO.
