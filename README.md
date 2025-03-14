@@ -1,7 +1,5 @@
 # Building-a-benchmark-for-Theories-of-Everything
 
-# Building a Benchmark for Theories of Everything
-
 We need rigorous benchmarks to evaluate 'Theories of Everything'; else it's just vibes-based. Without objective metrics, we can't distinguish between elegant theories and elegant nonsense. This benchmark captures key dimensions: explanatory power, evidential support, predictive accuracy, computational efficiency, and adaptability to new observations.
 
 ## Theoretical Layer
