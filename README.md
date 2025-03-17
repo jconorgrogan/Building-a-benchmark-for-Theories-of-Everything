@@ -2,7 +2,10 @@
 
 We need rigorous benchmarks to evaluate 'Theories of Everything'; else it's just vibes-based. Without objective metrics, we can't distinguish between elegant theories and elegant nonsense. This benchmark captures key dimensions: explanatory power, evidential support, predictive accuracy, computational efficiency, and adaptability to new observations.
 
-In thinking about this concept, one thing that struck me; What we're really debating is not a literal "Theory of Everything" but rather a "Theory of All That's Compressible and Communicable." We confuse the two as the same thing, when it is the very fact that they are different (they have to be) that could lead us astray.
+In thinking about this concept, there are two thing that struck meL
+
+1. What we're really debating is not a literal "Theory of Everything" but rather a "Theory of All That's Compressible and Communicable."
+2. A true Theory of Everything isn’t one that predicts literally everything, but rather one that delineates the boundaries of what can and cannot be distinguished—and thus what can and cannot be predicted."
 
 ## Theoretical Layer
 
